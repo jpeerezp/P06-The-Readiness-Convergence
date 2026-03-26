@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Prompt Text (v1.1 — current)
+## 📌 Prompt Text (v1.0 — current)
 
 ```
 Role: You are the High-Performance Director and Lead Sports Scientist for an elite European football club.
@@ -79,10 +79,13 @@ Readiness Convergence (JSON):
 
 This prompt acts as the **"Selection Filter"** that bridges the gap between the medical room and the tactical pitch.
 
-* **Trigger:** 2 hours before the first high-intensity training session of the microcycle.
-* **Actor:** High-Performance Director &nbsp; • &nbsp; Head of Sports Science.
-* **Timing:** Matchday +2 (`MD+2` — approx. 48 hours post-match).
-* **Next step:** `P07` — The Logistics (using the "Green Light" list for drill design).
+**Trigger:** 2 hours before the first high-intensity training session of the microcycle.
+
+**Actor:** High-Performance Director &nbsp; • &nbsp; Head of Sports Science.
+
+**Timing:** Matchday +2 (`MD+2` — approx. 48 hours post-match).
+
+**Next step:** `P07` — The Logistics (using the "Green Light" list for drill design).
 
 ```
 P04 (Neural) + P05 (Metabolic) → [P06 Selection Filter] 
@@ -137,7 +140,7 @@ The **"MD+2 Trap"** occurs when players feel physically "recovered" because acut
 
 ### v1.0 - Moving into the high-intensity session ✅ Current
 
-**Date:** March 16 2026
+**Date:** March 17 2026
 
 **Output:** 
 
